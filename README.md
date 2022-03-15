@@ -1,5 +1,5 @@
-### Hi, I’m @Woogie-Kim
-- Undergraduate interested in Petroleum Engineering.
+## Hi, I’m @Woogie-Kim
+### Undergraduate interested in Petroleum Engineering.
 * * *
 #### Experience
 * Undergraduate Researcher in Petroleum Engineering Lab., KMOU. (2020.03 - 2021.06)
